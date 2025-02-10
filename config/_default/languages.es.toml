@@ -1,0 +1,23 @@
+languageCode = "es-ES"
+languageName = "Español"
+languageDirection = "ltr"
+weight = 1
+
+title = "Davidnaviaweb.com"
+copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+  mainSections = ["samples"]
+  description = "Un tema poderoso y liviano para Hugo creado con Tailwind CSS."
+
+[params.author]
+  name = "David Navia"
+  image = "img/profile.jpg"
+  headline = "Man in Tech"
+  bio = "Desarrollador web y diseñador de producto"
+  links = [
+    { x-twitter = "https://x.com/davidnaviaweb" },
+    { linkedin = "https://www.linkedin.com/in/davidnaviaweb/" },
+    { github = "https://github.com/davidnaviaweb/" },
+  ]

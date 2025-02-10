@@ -1,10 +1,10 @@
 languageCode = "en"
 languageName = "English"
 languageDirection = "ltr"
-weight = 1
+weight = 2
 
-title = "Congo"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Davidnaviaweb.com"
+copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
@@ -14,7 +14,7 @@ title = "Congo"
 
 [params.author]
   # name = "Your name here"
-  # image = "img/author.jpg"
+  # image = "img/profile.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
   # links = [
